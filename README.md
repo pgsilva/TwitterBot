@@ -3,7 +3,7 @@
 
 1.  Step 1 
     * Get credential on twitter API
-    * Set the keys on the auth.json W/ The template of the auth.path.json
+    * Create a auth.json file and Set the keys on it W/ the template below
         ```javascript
           {
          "consumer_key": "XXXXXXXXXXXXXXXXXXXX",
@@ -12,5 +12,4 @@
          "access_token_secret": "XXXXXXXXXXXXXXXXXXXX"
         }
         ```
-         
          
